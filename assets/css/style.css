@@ -21834,7 +21834,7 @@ span.select2-selection.select2-selection--single:focus {
 
 .contact-form {
   background-color: var(--white-color);
-  box-shadow: 0px 20px 20px rgba(204, 204, 204, 0.25);
+  /* box-shadow: 0px 20px 20px rgba(204, 204, 204, 0.25); */
   border-radius: 16px;
   padding: 40px;
   /* Medium Large devices */
@@ -41637,4 +41637,25 @@ span.select2-selection.select2-selection--single:focus {
 
 .contact-add{
   font-size: 20px !important;
+}
+
+.brand-grid {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 20px;
+}
+
+.brand-item {
+    border: 1px solid #dbdbdb;
+    padding: 15px;
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.brand-item img {
+    max-width: 100%;
+    max-height: 80px;
+    object-fit: contain;
 }
