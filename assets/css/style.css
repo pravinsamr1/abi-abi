@@ -10015,8 +10015,8 @@ heding animation  end
 
 .newsletter-top {
   border-bottom: 1px solid rgba(255, 255, 255, 0.3);
-  margin-bottom: 70px;
-  padding-bottom: 60px;
+  margin-bottom: 50px;
+  padding-bottom: 30px;
 }
 
 .newsletter-top .newsletter-title {
@@ -41613,4 +41613,24 @@ span.select2-selection.select2-selection--single:focus {
 
 .spacee-topp{
   padding-top: 110px !important;
+}
+
+.small-heading{
+  font-size: 36px !important;
+}
+
+.footer-space-top{
+  padding-top: 50px;
+}
+
+.footer-space-bottom{
+  padding-bottom: 0px;
+}
+
+.space-bottom-fac{
+  padding-bottom: 1px;
+}
+
+.phone-deatlsas p a:hover{
+  color: #fff !important;
 }
