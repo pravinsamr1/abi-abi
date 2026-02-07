@@ -22466,7 +22466,7 @@ span.select2-selection.select2-selection--single:focus {
 /*------------------- contact style4 end here -------------*/
 /*------------------- contact inner style here -------------*/
 .contact-infobox {
-  padding: 60px;
+  padding: 60px 30px;
   border-radius: 30px;
   /* Medium Large devices */
   /* Extra small devices */
@@ -41616,7 +41616,7 @@ span.select2-selection.select2-selection--single:focus {
 }
 
 .small-heading{
-  font-size: 36px !important;
+  font-size: 30px !important;
 }
 
 .footer-space-top{
@@ -41633,4 +41633,8 @@ span.select2-selection.select2-selection--single:focus {
 
 .phone-deatlsas p a:hover{
   color: #fff !important;
+}
+
+.contact-add{
+  font-size: 20px !important;
 }
